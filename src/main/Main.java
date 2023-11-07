@@ -17,6 +17,7 @@ public class Main {
     ArrayList<String> records = new ArrayList();
         Scanner s = new Scanner(System.in);
         int menu_choice;
+        System.out.println("Зміна");
         System.out.println("Welcome to Droid Battle!");
     while(true) {
         System.out.println("Make your choice:" +
