@@ -1,0 +1,47 @@
+Team 1:
+Name: Badfwe 100 HP Damage: 15
+Name: ewfwvw Health: 120 HP Damage: 20VS
+Team 2:
+Name: dggw Health: 105 HPDamage: 10
+Name: dgvwgeew Health: 120 HPDamage: 20
+	Team 1:
+Badfwe have 95 HP and ewfwvw have 105 HP
+	Team 2:
+dggw have 100 HP and dgvwgeew have 100 HP
+	Team 1:
+Badfwe have 90 HP and ewfwvw have 90 HP
+	Team 2:
+dggw have 95 HP and dgvwgeew have 80 HP
+	Team 1:
+Badfwe have 85 HP and ewfwvw have 75 HP
+	Team 2:
+dggw have 90 HP and dgvwgeew have 60 HP
+	Team 1:
+Badfwe have 80 HP and ewfwvw have 60 HP
+	Team 2:
+dggw have 85 HP and dgvwgeew have 40 HP
+	Team 1:
+Badfwe have 75 HP and ewfwvw have 45 HP
+	Team 2:
+dggw have 80 HP and dgvwgeew have 20 HP
+	Team 1:
+Badfwe have 70 HP and ewfwvw have 30 HP
+	Team 2:
+dggw have 75 HP and dgvwgeew have 0 HP
+	Team 1:
+Badfwe have 65 HP and ewfwvw have 15 HP
+	Team 2:
+dggw have 55 HP and dgvwgeew have 0 HP
+	Team 1:
+Badfwe have 60 HP and ewfwvw have 0 HP
+	Team 2:
+dggw have 35 HP and dgvwgeew have 0 HP
+	Team 1:
+Badfwe have 40 HP and ewfwvw have 0 HP
+	Team 2:
+dggw have 15 HP and dgvwgeew have 0 HP
+	Team 1:
+Badfwe have 20 HP and ewfwvw have 0 HP
+	Team 2:
+dggw have 0 HP and dgvwgeew have 0 HP
+_______________________________________
